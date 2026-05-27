@@ -1,26 +1,49 @@
-# React Project - Pokémon API
+# ⚡ PokéAPI App
 
-This project is a React-based application that interacts with the Pokémon API, allowing users to search, view details, and explore various Pokémon.
+Ein Pokémon-Browser, der über die öffentliche [PokéAPI](https://pokeapi.co/) Daten zu Pokémon abruft und in einer übersichtlichen UI darstellt.
 
-## Features
-- **Pokémon Search**: Quickly search for any Pokémon by name.
-- **Detailed View**: View information such as type, abilities, stats, and more.
-- **Responsive Design**: Optimized for both mobile and desktop.
+🔗 **[Live-Demo](https://react-projekt-poke-api.vercel.app)**
 
-## Technologies Used
-- **React**: A JavaScript library for building user interfaces.
-- **Tailwind CSS**: A utility-first CSS framework for styling and responsive design.
-- **Pokémon API**: Provides data for various Pokémon, including details on type, stats, and abilities.
+---
 
-## Installation
-1. Clone the repository: `git clone https://github.com/TOezdemir/react-projekt-pokeApi.git`
-2. Install dependencies: `npm install`
-3. Start the application: `npm start`
+## ✨ Features
 
-## Live Demo
+- **Suche** – Pokémon nach Namen suchen
+- **Detailansicht** – Typ, Fähigkeiten, Stats und mehr auf einen Blick
+- **Responsives Design** – optimiert für Desktop und Smartphone
 
-Explore the live version of the project [here](https://react-projekt-poke-api.vercel.app).
-   
+---
 
-## License
+## 🛠️ Tech Stack
+
+| Bereich | Technologie |
+|---|---|
+| Frontend | React, TypeScript, Vite |
+| Styling | Tailwind CSS |
+| Daten | PokéAPI (REST) |
+
+---
+
+## 🚀 Lokale Installation
+
+```bash
+git clone https://github.com/TOezdemir/project-pokeapi.git
+cd project-pokeapi
+npm install
+npm run dev
+```
+
+---
+
+## 📄 Lizenz
+
 MIT License
+
+---
+
+## 👤 Autor
+
+**Tolgay Özdemir**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tolgay--oezdemir.de-000000?style=flat&logo=vercel&logoColor=white)](https://tolgay-oezdemir.de)
+[![GitHub](https://img.shields.io/badge/GitHub-TOezdemir-181717?style=flat&logo=github&logoColor=white)](https://github.com/TOezdemir)
